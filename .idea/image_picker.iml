@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_for_web/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_for_web/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_for_web/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_for_web/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_for_web/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_for_web/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_android/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_android/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_android/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_android/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_android/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_picker_android/example/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
